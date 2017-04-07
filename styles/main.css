@@ -1,3 +1,15 @@
 body {
-  
+  background-color: dodgerblue;
+}
+img {
+  border: 2px solid lime
+}
+h1, h2, h3, h4, h5, h6 {
+  color: lime;
+  text-align: center;
+  font-family: Arial;
+}
+p {
+  color: lime;
+  font-family: Arial;
 }
